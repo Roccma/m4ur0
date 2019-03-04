@@ -1,0 +1,22 @@
+{
+    "New Ticket":"New Reservation Request",
+    "History":"Updates",
+    "ModComments":"Comments",
+    "Mine":"Mias",
+    "All":"Todas",
+    "Close Ticket":"Close Ticket",
+    "Save":"Save",
+    "Cancel":"Cancel",
+    "Title":"Title",
+    "Add New Ticket":"Add New Ticket",
+    "Mark as closed":"Mark as closed",
+    "Attach document to this ticket":"Attach document to this ticket",
+    "Edit Ticket":"Edit Reservation",
+    "All Tickets":"All Tickets",
+    "Confirmada" : "Confirmed",
+    "Pendiente" : "Pending",
+    "Estado" : "State",
+    "SolicitudesReservas" : "Reservation Requests",
+    "Add new Reservation Request" : "Add new Reservation Request",
+    "Noticias" : "News"
+}

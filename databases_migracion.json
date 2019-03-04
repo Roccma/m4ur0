@@ -1,0 +1,17 @@
+{
+	"databases" : [
+		{
+			"sql_id": 1,
+			"sql_server": "189.240.202.203:2996",
+			"sql_user": "crmsirenis",
+			"sql_pass": "L4sMej0resPl@yas",
+			"sql_db": "MAYASIR",
+			"sql_prefixes" : [
+				{
+					"prefix_id": 1,
+					"prefix_name": "KAIBAMEX SA DE CV$"
+				}
+			]
+		}
+	]
+}
